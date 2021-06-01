@@ -2,6 +2,8 @@
 //  main.cpp
 //  test
 //
+//  Creates a Hello World App Using C++
+//
 //  Created by Jefferson Nguyen on 6/1/21.
 //
 
